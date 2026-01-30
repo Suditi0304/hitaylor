@@ -45,7 +45,7 @@ nav ul li{
     width: 70%;
     margin: 23px auto;
     border-radius: 12px;
-    background-image: url('https://i.pinimg.com/1200x/10/e9/c3/10e9c35a513d171bb04b0a3791ce4552.jpg') width= "200px";
+    background-image: url('https://i.pinimg.com/1200x/10/e9/c3/10e9c35a513d171bb04b0a3791ce4552.jpg'); width= "200px";
 
 }
 
@@ -106,4 +106,5 @@ nav ul li{
     position:absolute;
     left: 10vw;
 }
+
 
